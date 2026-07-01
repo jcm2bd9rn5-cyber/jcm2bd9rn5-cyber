@@ -1,12 +1,12 @@
 <div align="center">
 
-# Shogo Taguchi / 田口将伍
+# 🚀 Shogo Taguchi / 田口将伍
 
 ### Mobile App Developer  
-#### Flutter / SwiftUI / Firebase
+#### Flutter 🦋 | SwiftUI 🍎 | Firebase 🔥
 
 <p>
-  <b>Building iOS apps from idea to App Store.</b>
+  <b>💡 App Store から個人開発アプリを配信中</b>
 </p>
 
 <p>
@@ -16,27 +16,41 @@
   <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+---
+
+### 🌐 Links
+
+<p>
+  <a href="https://strive-lp-xi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20LP-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:jcm2bd9rn5@privaterelay.appleid.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
 東京電機大学 情報システム工学科で学びながら、iOS / Flutter / SwiftUI を中心に個人開発を行っています。
 
-アプリの企画、設計、実装、公開、改善までを一貫して経験し、App Store 公開済みアプリの開発・運用にも取り組んでいます。
+アプリの企画、設計、実装、公開、改善までを一貫して経験し、**App Store 公開済みアプリの開発・運用**にも取り組んでいます。
 
-特に、**ユーザーが継続して使える体験設計**、**モバイルアプリのUI改善**、**Firebaseを用いたデータ管理**、**RevenueCatを用いたサブスクリプション実装**に関心があります。
+特に、**ユーザーが継続して使える体験設計**、**モバイルアプリのUI改善**、**Firebaseを用いたデータ管理**、**RevenueCatを用いたサブスクリプション実装**などに注力しています。
 
 ---
 
-## Featured Projects
+## 🎯 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### Strive
+### 🏋️ Strive
 
 **Workout tracking app for iOS**
 
@@ -45,29 +59,31 @@
 
 **Features**
 
-- トレーニング記録
-- 前回重量・回数の表示
-- PR管理
-- インターバルタイマー
-- 履歴・月間レポート
-- フレンド機能
-- ランキング
-- サブスクリプション機能
+- 🏋️ トレーニング記録
+- 📊 前回重量・回数の表示
+- 🥇 PR管理
+- ⏱️ インターバルタイマー
+- 📈 履歴・月間レポート
+- 👥 フレンド機能
+- 🏆 ランキング
+- 💎 サブスクリプション機能
 
 **Tech**
 
 `Flutter` `Dart` `Firebase Auth`  
 `Cloud Firestore` `RevenueCat`
 
-**Status**
+**Status** ✅
 
 `Published on the App Store`  
 `Actively maintained`
 
+[📱 Download](https://apps.apple.com/) | [🔗 LP](https://strive-lp-xi.vercel.app)
+
 </td>
 <td width="50%">
 
-### Nolune
+### 📸 Nolune
 
 **SwiftUI camera album app**
 
@@ -76,20 +92,20 @@ SwiftUI と AVFoundation を用いて、撮影体験そのものを楽しめる 
 
 **Features**
 
-- Dynamic Island 風 UI
-- スワイプによるカメラ展開
-- AVFoundation カメラプレビュー
-- 写真撮影
-- チェキ風アニメーション
-- アルバム表示
-- ローカル保存
+- ✨ Dynamic Island 風 UI
+- 👆 スワイプによるカメラ展開
+- 📹 AVFoundation カメラプレビュー
+- 📷 写真撮影
+- 🎬 チェキ風アニメーション
+- 🖼️ アルバム表示
+- 💾 ローカル保存
 
 **Tech**
 
 `SwiftUI` `Swift` `AVFoundation`  
 `iOS` `Xcode`
 
-**Status**
+**Status** 🚧
 
 `In development`
 
@@ -98,7 +114,7 @@ SwiftUI と AVFoundation を用いて、撮影体験そのものを楽しめる 
 <tr>
 <td width="50%">
 
-### Focas
+### ⏱️ Focas
 
 **Focus timer app**
 
@@ -107,26 +123,26 @@ SwiftUI と AVFoundation を用いて、撮影体験そのものを楽しめる 
 
 **Features**
 
-- ポモドーロタイマー
-- 集中時間の記録
-- カテゴリ管理
-- 今日・週間・累計の統計
-- ストリーク表示
-- テーマ設定
-- 通知設定
+- ⏲️ ポモドーロタイマー
+- 📊 集中時間の記録
+- 📁 カテゴリ管理
+- 📈 今日・週間・累計の統計
+- 🔥 ストリーク表示
+- 🎨 テーマ設定
+- 🔔 通知設定
 
 **Tech**
 
 `React Native` `Expo` `TypeScript`
 
-**Status**
+**Status** 🚧
 
 `In development`
 
 </td>
 <td width="50%">
 
-### Portfolio
+### 🌐 Portfolio
 
 **Personal developer portfolio**
 
@@ -135,16 +151,16 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 
 **Focus**
 
-- 開発実績の整理
-- プロジェクト紹介
-- App Store 公開実績の掲載
-- 技術スタックの可視化
+- 📱 開発実績の整理
+- 🎯 プロジェクト紹介
+- 🏪 App Store 公開実績の掲載
+- 🛠️ 技術スタックの可視化
 
 **Tech**
 
 `Next.js` `TypeScript` `Vercel`
 
-**Status**
+**Status** 🚧
 
 `Preparing`
 
@@ -154,13 +170,13 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
 <td width="33%">
 
-### Mobile
+### 📱 Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -177,7 +193,7 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 </td>
 <td width="33%">
 
-### Backend / DB
+### 🗄️ Backend / DB
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -194,7 +210,7 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 </td>
 <td width="33%">
 
-### Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -214,28 +230,28 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 
 ---
 
-## Development Focus
+## 🎯 Development Philosophy
 
 <table>
 <tr>
 <td width="50%">
 
-### Product
+### 🎨 Product
 
-- 課題設定から公開後改善までやり切る
-- 実際に使われる前提で設計する
-- 継続利用される UI / UX を考える
-- ユーザー反応を見て改善する
+- 🔍 課題設定から公開後改善までやり切る
+- 📱 実際に使われる前提で設計する
+- ♻️ 継続利用される UI / UX を考える
+- 👂 ユーザー反応を見て改善する
 
 </td>
 <td width="50%">
 
-### Engineering
+### ⚙️ Engineering
 
-- 技術選定を目的化しない
-- 課題に合った構成を選ぶ
-- 小さく作って改善する
-- 保守しやすい構成を意識する
+- 🎯 技術選定を目的化しない
+- 🧩 課題に合った構成を選ぶ
+- 🔄 小さく作って改善する
+- 🏗️ 保守しやすい構成を意識する
 
 </td>
 </tr>
@@ -243,12 +259,44 @@ GitHub、App Store、各プロジェクトへの導線を整備中です。
 
 ---
 
-## Current Focus
+## 📊 Current Focus
 
-```txt
-Mobile App Development
-├── Flutter / Firebase
-├── SwiftUI / AVFoundation
-├── App Store Release
-├── Subscription Implementation
-└── Portfolio Optimization
+```
+🚀 Mobile App Development
+├── 🦋 Flutter / Firebase
+├── 🍎 SwiftUI / AVFoundation
+├── 📱 App Store Release
+├── 💎 Subscription Implementation
+├── 🎨 UI/UX Improvement
+└── 📈 Portfolio Optimization
+```
+
+---
+
+## 📚 Related Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[Strive LP](https://github.com/jcm2bd9rn5-cyber/strive-lp)** | Landing page for Strive app | ✅ Live |
+| **[Strive Legal](https://github.com/jcm2bd9rn5-cyber/strive-legal)** | Privacy policy & terms | ✅ Live |
+| **[Strive iOS](https://github.com/jcm2bd9rn5-cyber/strive-ios)** | Main app repository | 🚧 Private |
+
+---
+
+## 📞 Contact & Connect
+
+<div align="center">
+
+📧 Email: jcm2bd9rn5@privaterelay.appleid.com  
+🌐 Portfolio: [strive-lp-xi.vercel.app](https://strive-lp-xi.vercel.app)  
+👨‍💻 GitHub: [@jcm2bd9rn5-cyber](https://github.com/jcm2bd9rn5-cyber)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my work interesting, please give it a star!**
+
+</div>
