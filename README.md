@@ -78,7 +78,8 @@
 `Published on the App Store`  
 `Actively maintained`
 
-[📱 Download]([https://apps.apple.com/](https://apps.apple.com/jp/app/strive/id6770878590)) | [🔗 LP](https://strive-lp-xi.vercel.app)
+[📱 Download](https://apps.apple.com/jp/app/strive/id6770878590
+Strive) | [🔗 LP](https://strive-lp-xi.vercel.app)
 
 </td>
 <td width="50%">
