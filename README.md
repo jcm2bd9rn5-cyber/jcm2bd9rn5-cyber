@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shogo%20Taguchi&fontSize=70&fontColor=ffffff&animation=twinkling&reversal=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shogo%20Taguchi&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -39,16 +39,16 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=個人開発アプリの企画%E3%80%81設計%E3%80%81実装%E3%80%81公開%E3%80%81改善;ユーザーが継続して使える体験設計を重視;App%20Store%20公開済みアプリの開発・運用" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=個人開発アプリの企画%E3%80%81設計%E3%80%81実装をやり切る;App+Store+公開済みの+iOS+アプリ+開発;UX%2FUI+を考慮した+モバイルアプリ設計;継続的な改善と+ユーザーフィードバック反映" />
 </div>
 
 ---
 
 ## 👋 About Me
 
-東京電機大学 情報システム工学科で学びながら、iOS / Flutter / SwiftUI を中心に個人開発を行っています。
+東京電機大学 情報システム工学科 3年生。iOS / Flutter / SwiftUI を中心に個人開発を行っています。
 
-アプリの企画から公開、改善まで **一貫して経験** し、**App Store 公開済みアプリの開発・運用**に取り組んでいます。
+**アプリの企画から公開、改善まで一貫して経験** し、**App Store 公開済みアプリの開発・運用**に取り組んでいます。
 
 ### 🎯 **Development Philosophy**
 
@@ -58,6 +58,17 @@
 | 📱 実際に使われる前提で設計する | 🧩 課題に合った構成を選ぶ |
 | ♻️ 継続利用される UI / UX を考える | 🔄 小さく作って改善する |
 | 👂 ユーザー反応を見て改善する | 🏗️ 保守しやすい構成を意識する |
+
+---
+
+## 🎓 Education & Background
+
+| 項目 | 詳細 |
+|---|---|
+| 🎓 **学校** | 東京電機大学 情報システム工学科 |
+| 📍 **学年** | 3年生 |
+| 💼 **開発経歴** | 個人開発アプリ企画・設計・実装・App Store 公開 |
+| 🎯 **専門分野** | モバイルアプリ開発、UI/UX設計 |
 
 ---
 
@@ -222,6 +233,8 @@ GitHub、App Store、各プロジェクトへの導線を構築。
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
@@ -239,6 +252,18 @@ GitHub、App Store、各プロジェクトへの導線を構築。
 ├── 📈 Analytics & Performance
 └── 👥 Community Building
 ```
+
+---
+
+## 📈 Development Achievements
+
+| Achievement | Details |
+|---|---|
+| 🏪 **App Store Published** | Strive アプリ公開済み（ID: 6770878590） |
+| 📊 **Full Stack App Development** | 企画→設計→開発→公開→運用 全てを経験 |
+| 💎 **Production Features** | Firebase, Subscription, Analytics 実装 |
+| 🎨 **UI/UX Focus** | ユーザー体験を重視した設計・実装 |
+| 👥 **Team Collaboration** | SHOGARI等のチーム開発プロジェクトに参加 |
 
 ---
 
@@ -274,12 +299,13 @@ GitHub、App Store、各プロジェクトへの導線を構築。
 
 <div align="center">
 
-### 💡 Open to Collaboration
+### 💡 Open to Collaboration & Opportunities
 
 - 🤝 Building cool projects together
 - 💬 Mobile app development discussions
-- 🚀 Startup ideas & opportunities
+- 🚀 Startup ideas & tech innovation
 - 📚 Knowledge sharing & mentoring
+- 💼 **Internship & Job Opportunities**
 
 </div>
 
