@@ -1,328 +1,136 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shogo%20Taguchi&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-
-# 🚀 Shogo Taguchi / 田口将伍
-
-### 📱 **Mobile App Developer**  
-### Flutter 🦋 | SwiftUI 🍎 | Firebase 🔥
-
-<p>
-  <b>💡 App Store で個人開発アプリを配信中</b>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcm2bd9rn5-cyber/jcm2bd9rn5-cyber/main/assets/profile-hero.svg" width="100%" alt="Shogo Taguchi — Build. Ship. Improve." />
 </p>
 
+# Shogo Taguchi · 田口 将伍
+
+**身近な課題を、使い続けたくなるプロダクトに。**
+
+東京電機大学 システムデザイン工学部 情報システム工学科 / 2028年3月卒業予定。  
+Flutter・SwiftUIでモバイルアプリを開発しています。筋トレ記録アプリ **Strive** を個人で企画・設計・実装し、App Storeで公開・改善を続けています。
+
 <p>
-  <img src="https://img.shields.io/badge/App%20Store-Published-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
-  <img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/SwiftUI-iOS%20Native-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://apps.apple.com/jp/app/strive/id6770878590"><img src="https://img.shields.io/badge/Strive-App_Store-0D96F6?style=flat-square&amp;logo=appstore&amp;logoColor=white" alt="Strive on the App Store" /></a>
+  <a href="https://strive-lp-xi.vercel.app/"><img src="https://img.shields.io/badge/Strive-Website-18181B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Strive公式サイト" /></a>
+  <a href="mailto:jcm2bd9rn5@privaterelay.appleid.com"><img src="https://img.shields.io/badge/Contact-Email-52525B?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="メールで連絡" /></a>
 </p>
 
-</div>
+- **個人開発：** 課題発見からUI設計、認証・データ保存・課金の実装、ストア公開、運用まで担当。
+- **チーム開発：** ハッカソンでFlutter Webのフロントエンドと発表を担当し、サポーターズ賞を受賞。
+- **関心：** 自社プロダクト開発。使う人の反応を見ながら、体験と実装の両方を改善すること。
 
 ---
 
-<div align="center">
+## Featured project — Strive
 
-## 🌐 Quick Links
+### 前回重量を、忘れない。
 
-[![Portfolio LP](https://img.shields.io/badge/🌍_Portfolio_LP-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://strive-lp-xi.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/✉️_Contact_Me-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jcm2bd9rn5@privaterelay.appleid.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/👨_GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jcm2bd9rn5-cyber)
+筋トレ中に「前回は何kgで、何回できたか」をすぐ確認できる記録・分析アプリ。  
+自分自身のトレーニングで感じた不便を出発点に、**記録 → 成長の可視化 → 次の挑戦**がつながる体験を作っています。
 
-</div>
+友人とのランキングでは、**「負けたくない」という気持ちも継続の力に変える**ことを目指しています。
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=個人開発アプリの企画%E3%80%81設計%E3%80%81実装をやり切る;App+Store+公開済みの+iOS+アプリ+開発;UX%2FUI+を考慮した+モバイルアプリ設計;継続的な改善と+ユーザーフィードバック反映" />
-</div>
-
----
-
-## 👋 About Me
-
-東京電機大学 情報システム工学科 3年生。iOS / Flutter / SwiftUI を中心に個人開発を行っています。
-
-**アプリの企画から公開、改善まで一貫して経験** し、**App Store 公開済みアプリの開発・運用**に取り組んでいます。
-
-### 🎯 **Development Philosophy**
-
-| 🎨 **Product** | ⚙️ **Engineering** |
-|---|---|
-| 🔍 課題設定から公開後改善までやり切る | 🎯 技術選定を目的化しない |
-| 📱 実際に使われる前提で設計する | 🧩 課題に合った構成を選ぶ |
-| ♻️ 継続利用される UI / UX を考える | 🔄 小さく作って改善する |
-| 👂 ユーザー反応を見て改善する | 🏗️ 保守しやすい構成を意識する |
-
----
-
-## 🎓 Education & Background
-
-| 項目 | 詳細 |
-|---|---|
-| 🎓 **学校** | 東京電機大学 情報システム工学科 |
-| 📍 **学年** | 3年生 |
-| 💼 **開発経歴** | 個人開発アプリ企画・設計・実装・App Store 公開 |
-| 🎯 **専門分野** | モバイルアプリ開発、UI/UX設計 |
-
----
-
-## 🎯 Featured Projects
+<p>
+  <strong>App Store公開済み</strong> · 個人開発 · 企画 / 設計 / 実装 / リリース / 継続改善
+</p>
 
 <table>
-<tr>
-<td width="50%">
-
-### 🏋️ **Strive**
-
-**iOS Workout Tracking App**
-
-筋トレ記録と継続支援に特化した iOS アプリ。  
-トレーニング中でも素早く記録できる操作性と、継続を後押しする体験設計を重視。
-
-**✨ Features**
-
-- 🏋️ トレーニング記録
-- 📊 前回重量・回数の表示
-- 🥇 PR管理
-- ⏱️ インターバルタイマー
-- 📈 履歴・月間レポート
-- 👥 フレンド機能
-- 🏆 ランキング
-- 💎 サブスクリプション機能
-
-**🛠️ Tech Stack**
-
-`Flutter` `Dart` `Firebase Auth`  
-`Cloud Firestore` `RevenueCat`
-
-**📊 Status**
-
-[![App Store](https://img.shields.io/badge/App_Store-Published-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/jp/app/strive/id6770878590)
-[![Maintained](https://img.shields.io/badge/Status-Actively_Maintained-28a745?style=flat-square)](https://github.com/jcm2bd9rn5-cyber)
-
-[📱 Download](https://apps.apple.com/jp/app/strive/id6770878590) | [🔗 Landing Page](https://strive-lp-xi.vercel.app)
-
-</td>
-<td width="50%">
-
-### 📸 **Nolune**
-
-**SwiftUI Camera Album App**
-
-Dynamic Island 風のカメラ体験と、チェキ風に思い出を残せるアルバムアプリ。  
-SwiftUI と AVFoundation を用いた、撮影体験そのものを楽しめる UI を設計・実装。
-
-**✨ Features**
-
-- ✨ Dynamic Island 風 UI
-- 👆 スワイプによるカメラ展開
-- 📹 AVFoundation カメラプレビュー
-- 📷 写真撮影
-- 🎬 チェキ風アニメーション
-- 🖼️ アルバム表示
-- 💾 ローカル保存
-
-**🛠️ Tech Stack**
-
-`SwiftUI` `Swift` `AVFoundation`  
-`iOS` `Xcode`
-
-**📊 Status**
-
-![Development](https://img.shields.io/badge/Status-In_Development-FFA500?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⏱️ **Focas**
-
-**Focus Timer & Pomodoro App**
-
-集中時間の記録とポモドーロを組み合わせた集中支援アプリ。  
-学習・作業時間を可視化し、シンプルに継続できる操作体験を実装。
-
-**✨ Features**
-
-- ⏲️ ポモドーロタイマー
-- 📊 集中時間の記録
-- 📁 カテゴリ管理
-- 📈 今日・週間・累計の統計
-- 🔥 ストリーク表示
-- 🎨 テーマ設定
-- 🔔 通知設定
-
-**🛠️ Tech Stack**
-
-`React Native` `Expo` `TypeScript`
-
-**📊 Status**
-
-![Development](https://img.shields.io/badge/Status-In_Development-FFA500?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🌐 **Portfolio**
-
-**Personal Developer Portfolio**
-
-個人開発アプリ、技術スタック、開発背景、公開実績を整理するポートフォリオサイト。  
-GitHub、App Store、各プロジェクトへの導線を構築。
-
-**🎯 Focus**
-
-- 📱 開発実績の整理
-- 🎯 プロジェクト紹介
-- 🏪 App Store 公開実績の掲載
-- 🛠️ 技術スタックの可視化
-- 🎨 レスポンシブデザイン
-
-**🛠️ Tech Stack**
-
-`Next.js` `TypeScript` `Vercel`
-
-**📊 Status**
-
-![Preparation](https://img.shields.io/badge/Status-Preparing-0099FF?style=flat-square)
-
-</td>
-</tr>
+  <tr>
+    <th width="33%">HOME</th>
+    <th width="33%">WORKOUT</th>
+    <th width="33%">ANALYTICS</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/jcm2bd9rn5-cyber/strive-lp/1d5c884539d8f66b384c269ef1250a508b5ffc17/assets/screens/home.webp" width="175" alt="Striveのホーム画面" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jcm2bd9rn5-cyber/strive-lp/1d5c884539d8f66b384c269ef1250a508b5ffc17/assets/screens/workout.webp" width="175" alt="Striveのセット記録画面" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/jcm2bd9rn5-cyber/strive-lp/1d5c884539d8f66b384c269ef1250a508b5ffc17/assets/screens/analytics.webp" width="175" alt="Striveのトレーニング分析画面" /></td>
+  </tr>
 </table>
 
----
+**主な機能**
 
-## 🛠️ Tech Stack
+- セットごとの重量・回数記録、前回記録との比較、PRの自動判定
+- インターバルタイマー、トレーニング履歴、Growth Score・月間比較・BIG3分析
+- フレンド機能・ランキング、RevenueCatによるサブスクリプション
 
-<div align="center">
+**開発で考えたこと**
 
-### 📱 **Mobile Development**
+| 課題 | 設計・実装 |
+| --- | --- |
+| トレーニング中に記録や確認の手間がかかる | 前回記録を入力の近くに表示し、片手操作やタップ数を意識してUIを改善 |
+| 登録前に使い心地を試したい | 匿名利用から始められ、必要に応じてApple / Googleアカウントを連携 |
+| 記録を残すだけでは継続につながりにくい | 成長の分析と友人との競争を組み合わせ、次のトレーニングの動機を作る |
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Stack：** `Flutter` `Dart` `Firebase Authentication` `Cloud Firestore` `RevenueCat`
 
-### ☁️ **Backend & Database**
+[App Storeで見る](https://apps.apple.com/jp/app/strive/id6770878590) · [公式サイト](https://strive-lp-xi.vercel.app/)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### 🔧 **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### 💻 **Web Development**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
+<sub>アプリ本体のソースコードは非公開です。公開サイトと実際のアプリから、機能・UIをご覧いただけます。</sub>
 
 ---
 
-## 📊 Current Focus
+## Other projects
 
-```
-🎯 Mobile App Development
-├── 🦋 Flutter / Firebase
-├── 🍎 SwiftUI / AVFoundation  
-├── 📱 App Store Release
-├── 💎 Subscription Implementation
-├── 🎨 UI/UX Improvement
-├── 📈 Analytics & Performance
-└── 👥 Community Building
-```
+### Nolune — 撮る瞬間も楽しめるカメラ
 
----
+Dynamic Island付近からカメラが展開し、撮った写真をチェキ風の演出でアルバムに残すiOSアプリの試作。
 
-## 📈 Development Achievements
+- **担当：** 個人開発 / UI設計・実装
+- **実装：** カメラプレビュー・撮影、スワイプ操作、SwiftUIアニメーション、写真のローカル保存
+- **Stack：** `Swift` `SwiftUI` `AVFoundation`
+- **状況：** 試作済み・開発休止中
 
-| Achievement | Details |
-|---|---|
-| 🏪 **App Store Published** | Strive アプリ公開済み（ID: 6770878590） |
-| 📊 **Full Stack App Development** | 企画→設計→開発→公開→運用 全てを経験 |
-| 💎 **Production Features** | Firebase, Subscription, Analytics 実装 |
-| 🎨 **UI/UX Focus** | ユーザー体験を重視した設計・実装 |
-| 👥 **Team Collaboration** | SHOGARI等のチーム開発プロジェクトに参加 |
+### GuruMeet — ハッカソンでのチーム開発
 
----
+Flutter Webを使ったチーム開発。フロントエンドの実装と成果発表を担当しました。
 
-## 📚 Related Projects
+- **チーム：** shogari
+- **実績：** サポーターズ賞を受賞
+- **Stack：** `Flutter Web` `Dart`
 
-<div align="center">
+### Strive LP — 公開アプリを伝えるWebサイト
 
-| Project | Description | Status | Link |
-|---------|-------------|--------|------|
-| **Strive LP** | Landing page for Strive app | ✅ Live | [GitHub](https://github.com/jcm2bd9rn5-cyber/strive-lp) |
-| **Strive Legal** | Privacy policy & terms | ✅ Live | [GitHub](https://github.com/jcm2bd9rn5-cyber/strive-legal) |
-| **Strive iOS** | Main Strive app repository | 🚧 Private | [GitHub](https://github.com/jcm2bd9rn5-cyber) |
+Striveの機能や開発背景を紹介し、App Storeへつなぐ公式ランディングページ。
 
-</div>
+**Stack：** `HTML` `CSS` `JavaScript` `Vercel`
 
----
+[サイトを見る](https://strive-lp-xi.vercel.app/) · [ソースコード](https://github.com/jcm2bd9rn5-cyber/strive-lp)
 
-## 📞 Contact & Connect
+<details>
+  <summary>その他の開発 — Focas</summary>
 
-<div align="center">
+### Focas — 集中時間の記録
 
-### Let's Connect! 🤝
+ポモドーロタイマーと集中時間の記録を組み合わせた集中支援アプリ。カテゴリ管理、統計、ストリーク表示などを実装しています。
 
-📧 **Email:** [jcm2bd9rn5@privaterelay.appleid.com](mailto:jcm2bd9rn5@privaterelay.appleid.com)
+**Stack：** `React Native` `Expo` `TypeScript`
 
-🌐 **Portfolio:** [strive-lp-xi.vercel.app](https://strive-lp-xi.vercel.app)
-
-👨‍💻 **GitHub:** [@jcm2bd9rn5-cyber](https://github.com/jcm2bd9rn5-cyber)
-
-</div>
+</details>
 
 ---
 
-<div align="center">
+## Technologies
 
-### 💡 Open to Collaboration & Opportunities
+技術は、実際に使ったプロジェクトと合わせて紹介しています。
 
-- 🤝 Building cool projects together
-- 💬 Mobile app development discussions
-- 🚀 Startup ideas & tech innovation
-- 📚 Knowledge sharing & mentoring
-- 💼 **Internship & Job Opportunities**
+| 領域 | 技術 | 使用プロジェクト |
+| --- | --- | --- |
+| モバイル | Flutter / Dart | Strive |
+| iOSネイティブ | Swift / SwiftUI / AVFoundation | Nolune |
+| 認証・データ保存 | Firebase Authentication / Cloud Firestore | Strive |
+| 課金・運用 | RevenueCat / App Store Connect | Strive |
+| Web | Flutter Web / Dart | GuruMeet |
+| Web | HTML / CSS / JavaScript / Vercel | Strive LP |
+| モバイル | React Native / Expo / TypeScript | Focas |
 
-</div>
+## Now & next
 
----
+- StriveのAndroid版公開に向けた準備と、使いやすさの改善
+- バックエンド、API・DB設計、テストを学び、設計と実装の幅を広げること
+- コードレビューや設計レビューのあるチームで、プロダクト開発を経験すること
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling&reversal=true" width="100%"/>
-</div>
+## Contact
 
-<div align="center">
+モバイル・Webサービスの開発や、エンジニアインターンの機会に関心があります。
 
-### ⭐ If you find my work interesting, please give it a star!
-
-**⭐ From [Shogo Taguchi](https://github.com/jcm2bd9rn5-cyber) with ❤️**
-
-*"Flutter makes everything beautiful! 🦋"*
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jcm2bd9rn5-cyber.jcm2bd9rn5-cyber)
-
-</div>
+[メールで連絡](mailto:jcm2bd9rn5@privaterelay.appleid.com) · [Strive公式サイト](https://strive-lp-xi.vercel.app/)

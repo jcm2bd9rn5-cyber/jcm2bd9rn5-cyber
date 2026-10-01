@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080808"/><stop offset="1" stop-color="#3a0b0b"/></linearGradient></defs><rect width="1200" height="420" rx="30" fill="url(#g)"/><text x="70" y="95" fill="#ff4040" font-size="24" font-family="Arial" font-weight="700">MOBILE APP DEVELOPER</text><text x="66" y="180" fill="white" font-size="72" font-family="Arial" font-weight="800">SHOGO TAGUCHI</text><text x="70" y="235" fill="#dddddd" font-size="29" font-family="Arial">App development from idea to App Store release.</text><rect x="70" y="280" width="180" height="62" rx="18" fill="#ff3838"/><text x="112" y="320" fill="white" font-size="26" font-family="Arial" font-weight="700">700+ DL</text><rect x="270" y="280" width="230" height="62" rx="18" fill="#202024" stroke="#666"/><text x="305" y="320" fill="white" font-size="25" font-family="Arial" font-weight="700">App Store</text><text x="70" y="382" fill="#aaaaaa" font-size="24" font-family="Arial">Flutter  /  SwiftUI  /  Firebase  /  RevenueCat</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shogo Taguchi — Build. Ship. Improve.</title>
+  <desc id="desc">Mobile and product development. An understated dark banner with a mint accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151722"/><stop offset="1" stop-color="#23253a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#86efc4"/><stop offset="1" stop-color="#b2b5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="56" y="56" width="36" height="4" rx="2" fill="#86efc4"/>
+  <text x="56" y="96" fill="#a9afc2" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">MOBILE &amp; PRODUCT DEVELOPMENT</text>
+  <text x="52" y="177" fill="#f4f4f8" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Shogo Taguchi</text>
+  <text x="56" y="240" fill="#86efc4" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="1">Build. Ship. Improve.</text>
+  <g fill="none" stroke="#5c6179" stroke-width="1" opacity=".5">
+    <rect x="865" y="47" width="230" height="226" rx="24"/>
+    <path d="M890 101H1070M890 158H1070M890 215H1070M925 72V249M983 72V249M1041 72V249"/>
+  </g>
+  <path d="M890 222L930 188L973 197L1013 144L1069 102" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1069" cy="102" r="7" fill="#b2b5ff"/>
+  <circle cx="890" cy="222" r="4" fill="#86efc4"/>
+  <text x="56" y="284" fill="#a9afc2" font-family="Arial,Helvetica,sans-serif" font-size="17">Flutter / SwiftUI / Firebase</text>
+</svg>
