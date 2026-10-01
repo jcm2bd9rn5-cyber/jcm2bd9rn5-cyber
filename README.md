@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" width="100%" alt="Shogo Taguchi — モバイルアプリを企画から公開まで。Flutter / SwiftUI / Firebase" />
+  <img src="assets/profile-hero.svg?v=fire" width="100%" alt="Shogo Taguchi — モバイルアプリを企画から公開まで。Flutter / SwiftUI / Firebase" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br />
 
 <a href="https://apps.apple.com/jp/app/strive/id6770878590">
-  <img src="assets/strive-showcase.webp" width="100%" alt="Strive — App Store公開済みの筋トレ記録アプリ。実際の記録・分析画面。Flutter / Firebase / RevenueCatで個人開発。" />
+  <img src="assets/strive-showcase.webp?v=fire" width="100%" alt="Strive — App Store公開済みの筋トレ記録アプリ。実際の記録・分析画面。Flutter / Firebase / RevenueCatで個人開発。" />
 </a>
 
 <p>
@@ -30,12 +30,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/nolune-card.svg" width="100%" alt="Nolune — SwiftUI / AVFoundation" /><br />
+      <img src="assets/nolune-card.svg?v=fire" width="100%" alt="Nolune — SwiftUI / AVFoundation" /><br />
       撮る瞬間も楽しめる、チェキ風カメラ。<br />
       <sub>個人開発 / 試作済み・開発休止中</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/gurumeet-card.svg" width="100%" alt="GuruMeet — Flutter Web / ハッカソン" /><br />
+      <img src="assets/gurumeet-card.svg?v=fire" width="100%" alt="GuruMeet — Flutter Web / ハッカソン" /><br />
       <b>サポーターズ賞 受賞</b><br />
       <sub>チーム開発 / フロントエンド実装・発表を担当</sub>
     </td>

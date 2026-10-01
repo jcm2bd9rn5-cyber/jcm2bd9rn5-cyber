@@ -1,28 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440"><defs></defs>
-<rect width="1200" height="440" rx="22" fill="#141515"/>
-<g stroke="#313332" stroke-width=".7" opacity=".48"><path d="M734 0V440"/><path d="M770 0V440"/><path d="M806 0V440"/><path d="M842 0V440"/><path d="M878 0V440"/><path d="M914 0V440"/><path d="M950 0V440"/><path d="M986 0V440"/><path d="M1022 0V440"/><path d="M1058 0V440"/><path d="M1094 0V440"/><path d="M1130 0V440"/><path d="M1166 0V440"/><path d="M734 0H1200"/><path d="M734 36H1200"/><path d="M734 72H1200"/><path d="M734 108H1200"/><path d="M734 144H1200"/><path d="M734 180H1200"/><path d="M734 216H1200"/><path d="M734 252H1200"/><path d="M734 288H1200"/><path d="M734 324H1200"/><path d="M734 360H1200"/><path d="M734 396H1200"/><path d="M734 432H1200"/></g>
-<path d="M734 0V390" stroke="#333534"/>
-<circle cx="58" cy="53" r="5" fill="#ff6445"/>
-<text x="77" y="59" font-family="monospace" font-size="17" letter-spacing="2" fill="#bfc1b8">INDEPENDENT DEVELOPER</text>
-<text x="50" y="200" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="146" letter-spacing="-8" fill="#f3f0e8">SHOGO</text>
-<text x="54" y="314" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="109" letter-spacing="-5" fill="#f3f0e8">TAGUCHI<tspan fill="#ff6445">.</tspan></text>
-<text x="58" y="357" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#a3a79e">Ideas into apps. Apps into everyday life.</text>
-<g transform="translate(900 219)">
- <ellipse rx="177" ry="142" fill="none" stroke="#62675b" stroke-dasharray="2 9" transform="rotate(-27)"/>
- <ellipse rx="189" ry="102" fill="none" stroke="#555c4a" transform="rotate(-44)"/>
- <g transform="rotate(14)"><rect x="-49" y="-130" width="176" height="254" rx="25" fill="#242622" stroke="#555b4a"/><rect x="-70" y="-112" width="176" height="254" rx="25" fill="#2a2d26" stroke="#6a7258"/></g>
- <g transform="rotate(-9)">
-  <rect x="-96" y="-122" width="176" height="254" rx="25" fill="#dfedb9"/>
-  <rect x="-83" y="-109" width="150" height="228" rx="16" fill="#20231b"/>
-  <rect x="-32" y="-100" width="49" height="5" rx="2.5" fill="#788362"/>
-  <path d="M-47 -31L-67 -11L-47 9M27 -31L47 -11L27 9M5 -44L-18 21" fill="none" stroke="#dfedb9" stroke-width="6" stroke-linejoin="round"/>
-  <rect x="-61" y="54" width="98" height="5" rx="2.5" fill="#6a755a"/><rect x="-61" y="70" width="69" height="5" rx="2.5" fill="#414b34"/>
-  <circle cx="48" cy="97" r="9" fill="#ff6445"/>
- </g>
-</g>
-<g stroke="#ff6445" stroke-width="3"><path d="M1106 62V86M1094 74H1118"/><path d="M783 332V352M773 342H793"/></g>
-<text x="1141" y="59" fill="#a3a79e" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="2">BUILD / SHIP / ITERATE</text>
-<path d="M56 388H1144" stroke="#3a3d36"/>
-<text x="58" y="420" font-family="monospace" font-size="16" letter-spacing="2" fill="#c5c8bd">FLUTTER <tspan fill="#747a6b">/</tspan> SWIFTUI <tspan fill="#747a6b">/</tspan> FIREBASE</text>
-<text x="1141" y="420" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="2" fill="#a3a79e">MOBILE + PRODUCT</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="520" viewBox="0 0 1200 520"><defs>
+<radialGradient id="aura"><stop stop-color="#f74712" stop-opacity=".66"/><stop offset=".42" stop-color="#b41f07" stop-opacity=".25"/><stop offset="1" stop-color="#09090c" stop-opacity="0"/></radialGradient>
+<linearGradient id="metal" x1="0" y1="0" x2=".35" y2="1"><stop stop-color="#ffffff"/><stop offset=".5" stop-color="#f5efeb"/><stop offset="1" stop-color="#8e7771"/></linearGradient>
+<linearGradient id="fire" x1=".1" y1="1" x2=".8" y2="0"><stop stop-color="#761109"/><stop offset=".38" stop-color="#ff3d13"/><stop offset=".7" stop-color="#ff9a32"/><stop offset="1" stop-color="#fff2bf"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#511914"/><stop offset=".47" stop-color="#ff6033"/><stop offset=".73" stop-color="#ffe4b4"/><stop offset="1" stop-color="#f34520"/></linearGradient>
+<linearGradient id="fade"><stop stop-color="#ff633a"/><stop offset="1" stop-color="#ff633a" stop-opacity="0"/></linearGradient>
+<linearGradient id="rim"><stop stop-color="#ffaf74"/><stop offset=".3" stop-color="#ed4429"/><stop offset="1" stop-color="#38201c"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="clip"><rect width="1200" height="520" rx="20"/></clipPath></defs>
+<rect width="1200" height="520" rx="20" fill="#0b0b0e"/>
+<g clip-path="url(#clip)">
+<ellipse cx="1200" cy="0" rx="410" ry="340" fill="url(#aura)" opacity=".38"/>
+<path d="M697 0V460M717 0V460M1200 461H0" stroke="#282022" stroke-width="1"/>
+<path d="M726 382L1134 74M730 399L1150 81" stroke="#4f221a" stroke-width="1" opacity=".52"/>
+<ellipse cx="943" cy="337" rx="286" ry="261" fill="url(#aura)"/><path d="M932 453C865 473 777 439 769 359C761 312 791 267 814 247C799 281 817 307 839 292C872 268 838 220 873 176C901 140 941 112 931 61C1000 115 1028 170 1003 226C990 255 990 278 1011 285C1036 290 1045 253 1037 232C1097 275 1120 333 1095 385C1069 442 1000 457 932 453Z" fill="#ff591b" opacity=".42" filter="url(#glow)"/><path d="M932 453C865 473 777 439 769 359C761 312 791 267 814 247C799 281 817 307 839 292C872 268 838 220 873 176C901 140 941 112 931 61C1000 115 1028 170 1003 226C990 255 990 278 1011 285C1036 290 1045 253 1037 232C1097 275 1120 333 1095 385C1069 442 1000 457 932 453Z" fill="url(#fire)" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M947 438C838 431 808 382 843 325C874 274 927 265 931 208C955 154 967 143 951 104C1013 182 961 233 952 285C942 337 1019 354 1004 400C992 430 973 435 947 438Z" fill="#270d0c" opacity=".9"/>
+<path d="M954 432C836 405 856 342 907 295C952 252 935 229 959 190C987 145 965 119 952 96" fill="none" stroke="url(#edge)" stroke-width="2.3"/>
+<path d="M990 440C1054 406 1079 378 1053 326C1040 301 1061 283 1060 276" fill="none" stroke="#ffa358" stroke-width="1.2"/>
+<path d="M933 438C886 431 869 405 878 372C887 340 926 327 927 292C960 323 942 350 960 362C982 375 1005 348 1000 322C1041 354 1032 396 1008 417C987 438 958 443 933 438Z" fill="#ffba52" filter="url(#soft)" opacity=".65"/><path d="M933 438C886 431 869 405 878 372C887 340 926 327 927 292C960 323 942 350 960 362C982 375 1005 348 1000 322C1041 354 1032 396 1008 417C987 438 958 443 933 438Z" fill="url(#fire)"/>
+<path d="M929 431C909 405 952 397 945 374C978 391 984 420 958 435Z" fill="#fff0bf"/>
+<path d="M674 64l3 -9" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M757 131l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M840 198l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M923 265l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1006 332l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M1089 399l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M692 85l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M775 152l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M858 219l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M941 286l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1024 353l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M1107 420l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M710 106l3 -9" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M793 173l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M876 240l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M959 307l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1042 374l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M1125 441l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M728 127l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M811 194l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M894 261l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M977 328l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1060 395l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M1143 81l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M746 148l3 -9" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M829 215l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M912 282l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M995 349l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1078 416l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M681 102l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M764 169l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.7"/><path d="M847 236l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.35"/><path d="M930 303l3 -9" stroke="#e54a24" stroke-width="1" opacity="0.7"/><path d="M1013 370l1.5 -4.5" stroke="#ffd39e" stroke-width="2" opacity="0.35"/><path d="M1096 437l1.5 -4.5" stroke="#e54a24" stroke-width="1" opacity="0.7"/>
+<path d="M50 50h18M50 50v18M1150 50h-18M1150 50v18M1150 458h-18" fill="none" stroke="#c4452c"/>
+<text x="76" y="58" fill="#e0aba0" font-family="monospace" font-size="15" letter-spacing="3">INDEPENDENT DEVELOPER</text>
+<text x="51" y="212" fill="url(#metal)" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="148" letter-spacing="-9">SHOGO</text>
+<text x="57" y="321" fill="url(#metal)" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="110" letter-spacing="-6">TAGUCHI<tspan fill="#ff5735">.</tspan></text>
+<path d="M61 356H108" stroke="#ff5735" stroke-width="3"/>
+<text x="123" y="364" fill="#f8c0a6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">BUILD WITH FIRE.</text>
+<text x="61" y="404" fill="#af9a95" font-family="Arial, Helvetica, sans-serif" font-size="21">Ideas into apps. Apps into everyday life.</text>
+<text x="1094" y="57" text-anchor="end" fill="#9d756c" font-family="monospace" font-size="11" letter-spacing="2">CRAFT / CODE / RELEASE</text>
+<path d="M51 460H1149" stroke="url(#fade)"/>
+<text x="60" y="495" fill="#bfa8a1" font-family="monospace" font-size="15" letter-spacing="1.5">FLUTTER <tspan fill="#793428">/</tspan> SWIFTUI <tspan fill="#793428">/</tspan> FIREBASE</text>
+<text x="1145" y="495" text-anchor="end" fill="#bfa8a1" font-family="monospace" font-size="13" letter-spacing="2">MOBILE + PRODUCT</text>
+</g><rect x=".5" y=".5" width="1199" height="519" rx="20" fill="none" stroke="#3b2521"/>
 </svg>
