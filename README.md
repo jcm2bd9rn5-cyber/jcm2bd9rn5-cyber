@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/profile-hero.svg?v=fire" width="100%" alt="Shogo Taguchi — モバイルアプリを企画から公開まで。Flutter / SwiftUI / Firebase" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero.svg?v=motion" />
+    <img src="assets/profile-hero-animated.gif" width="100%" alt="Shogo Taguchi — 炎と火の粉がゆっくり動くヘッダー。Flutter / SwiftUI / Firebaseでモバイルアプリを企画から公開まで。" />
+  </picture>
 </p>
 
 <p align="center">
@@ -26,6 +29,14 @@
   <b>「負けたくない」を、続ける力に。</b><br />
   記録・成長の可視化・友人との競争で筋トレを支えるアプリ。企画から設計・実装・公開・改善まで担当。
 </p>
+
+### Behind the build
+
+- **きっかけ：** 自分の筋トレ経験から、前回記録をすぐ確認でき、友人との競争も継続の力になるアプリを作りたいと考えました。
+- **担当範囲：** UI設計、認証、データ保存、課金、ストア公開、公開後の改善まで一貫して担当しています。
+- **実装の工夫：** Androidの休憩通知は、正確な時刻指定で予約できない場合に別方式で再試行。終了済みタイマーの通知予約も防いでいます。
+
+[設計・実装のメモを読む →](docs/strive-engineering.md)
 
 <table>
   <tr>
