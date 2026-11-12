@@ -12,9 +12,11 @@
 </p>
 
 <p align="center">
+  <a href="https://shogo-one.vercel.app/">Portfolio ↗</a>
+  &nbsp; / &nbsp;
   <a href="https://apps.apple.com/jp/app/strive/id6770878590">App Store ↗</a>
   &nbsp; / &nbsp;
-  <a href="https://strive-lp-xi.vercel.app/">Website ↗</a>
+  <a href="https://play.google.com/store/apps/details?id=com.shogodev.strive">Google Play ↗</a>
   &nbsp; / &nbsp;
   <a href="mailto:jcm2bd9rn5@privaterelay.appleid.com">Contact ↗</a>
 </p>
@@ -46,12 +48,41 @@
       <sub>個人開発 / 試作済み・開発休止中</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/gurumeet-card.svg?v=fire" width="100%" alt="GuruMeet — Flutter Web / ハッカソン" /><br />
-      <b>サポーターズ賞 受賞</b><br />
+      <a href="https://lp.gurumeet.net/"><img src="assets/gurumeet-card.svg?v=fire" width="100%" alt="GuruMeet — Flutter / FastAPI / 技育CAMP 2026 サポーターズ賞受賞" /></a><br />
+      <b>🏆 技育CAMP 2026 — サポーターズ賞 受賞</b><br />
       <sub>チーム開発 / フロントエンド実装・発表を担当</sub>
     </td>
   </tr>
 </table>
+
+
+## Selected Engineering Work
+
+**[Construction Drawing Intelligence](https://github.com/jcm2bd9rn5-cyber/construction-drawing-intelligence)**  
+建設図面を対象に、根拠を原本に遡れる検索・質問応答システム。FastAPI / PostgreSQL / pgvectorを使用したGrounded RAGの開発プロジェクトです。
+
+**[GuruMeet](https://lp.gurumeet.net/)**  
+店選びをチームで決める投票サービス。Flutter / FastAPIによるチーム開発で、**技育CAMP 2026 サポーターズ賞**を受賞しました。
+
+## Tech Stack
+
+**Languages**
+
+<p><img src="https://skillicons.dev/icons?i=dart,swift,ts,py,java,js&amp;theme=dark&amp;perline=6" alt="Dart, Swift, TypeScript, Python, Java, JavaScript" /></p>
+
+**Frameworks**
+
+<p><img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi&amp;theme=dark&amp;perline=4" alt="Flutter, React, Next.js, FastAPI" /></p>
+
+SwiftUIも使用しています。
+
+**Tools & Platforms**
+
+<p><img src="https://skillicons.dev/icons?i=firebase,postgres,docker,github,vercel&amp;theme=dark&amp;perline=5" alt="Firebase, PostgreSQL, Docker, GitHub, Vercel" /></p>
+
+RevenueCatを用いたアプリ内課金・サブスクリプション実装も経験しています。
+
+<sub>Technology icons: <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a> (MIT License)</sub>
 
 <p align="center">
   <sub>プロダクト開発・エンジニアインターンに関心があります。</sub>
